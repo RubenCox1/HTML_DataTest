@@ -1,0 +1,1 @@
+{"activities":[{"action":"uuid:b66197c9-ce5a-45db-9117-1c40605b15f1::HtmlToDataUrlActivity","category":"Custom Activities","displayName":"Html To Data Url Activity","inputs":{"html":{"displayName":"Html","name":"html","typeName":"string"}},"outputs":{"url":{"displayName":"Url","name":"url","typeName":"string"}},"suite":"uuid:b66197c9-ce5a-45db-9117-1c40605b15f1"}],"elements":[]}
